@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fragment_interface_1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="EditText">EditText_id</string>
+    <string name="send">Send_id</string>
+</resources>
